@@ -1,0 +1,1 @@
+Project forked from https://github.com/digitsensitive/phaser3-typescript for my personal development.
